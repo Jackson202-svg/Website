@@ -31,7 +31,7 @@ Here is an example of an HTML boilerplate code:
     <p>This is my first webpage.</p>
 </body>
 </html>
-
+```
 ### To Host an Actual Website
 
 If you want to host a functional website with a full `index.html` file using your repository, you should use **
