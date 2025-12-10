@@ -45,12 +45,12 @@ If you want to host a functional website with a full `index.html` file using you
 To better leverage HTML within a GitHub README.md file, you can utilize the limited set of supported HTML tags, or employ an advanced technique of embedding HTML inside an SVG file.
 Main HTML Tags Supported by GitHub
 GitHub Flavored Markdown (GFM) strips out tags like <style> and <script> for security reasons, but it supports the following basic tags:
-Text Formatting: <b>, <i>, <strong>, <em>, <mark>, <small>, <del>, <ins>, <sub>, <sup>
-Structure: <h1> through <h6>, <p>, <div>, <span>, <blockquote>, <pre>, <hr>, <br>
-Lists: <ol>, <ul>, <li>, <dl>, <dt>, <dd>
-Tables: <table>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>, <caption>
-Links and Images: <a> (with limited attributes), <img>
-Other: <abbr>, <cite>, <code>, <kbd>, <q>, <samp>, <time>, <var>, <details>, <summary>
+Text Formatting: `<b>, `<i>`, `<strong>`, `<em>, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>, `<sup>`
+Structure: `<h1>` through `<h6>`, `<p>`, `<div>`, `<span>`, `<blockquote>`, `<pre>`, `<hr>`, `<br>`
+Lists: `<ol>`, `<ul>`, `<li>`, <dl>`, <dt>`, `<dd>`
+Tables: `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>, `<th>`, `<td>`, `<caption>`
+Links and Images: `<a>` (with limited attributes), `<img>`
+Other: `<abbr>`, `<cite>`, `<code>`, `<kbd>`,`<q>`, `<samp>`, `<time>`, `<var>`, `<details>`, `<summary>`
 Advanced Example Using HTML
 Below is a more structured README example using supported tags:
 
